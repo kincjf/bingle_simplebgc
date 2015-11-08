@@ -1,0 +1,7 @@
+/build
+/.idea
+/app/build
+/local.properties
+/.gradle
+/SBGCBluetoothSample.iml
+/app/app.iml
